@@ -1,0 +1,17 @@
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Keycloak.IdentityModel.dll.config
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Keycloak.IdentityModel.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Keycloak.IdentityModel.pdb
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\obj\Debug\Keycloak.IdentityModel.csproj.CoreCompileInputs.cache
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\obj\Debug\Keycloak.IdentityModel.csproj.CopyComplete
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\obj\Debug\Keycloak.IdentityModel.dll
+C:\Users\Pav\Source\Repos\Owin.Security.Keycloak\src\Keycloak.IdentityModel\obj\Debug\Keycloak.IdentityModel.pdb
