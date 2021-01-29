@@ -1,0 +1,35 @@
+version: "3.5"
+services:
+  ldap:
+    build: ldap/
+    networks:
+      - mynetwork
+  keycloak9:
+    build: keycloak9/
+    environment:
+      - KEYCLOAK_USER=admin
+      - KEYCLOAK_PASSWORD=admin
+    ports:
+      - "8090:8080"
+    networks:
+      - mynetwork
+  keycloak12:
+    build: keycloak12/
+    environment:
+      - KEYCLOAK_USER=admin
+      - KEYCLOAK_PASSWORD=admin
+    ports:
+      - "8080:8080"
+    networks:
+      - mynetwork
+  demo-mail:
+    build: mail/
+    ports:
+      - "8025:8025"
+      - "1025:1025"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+    driver: bridge
